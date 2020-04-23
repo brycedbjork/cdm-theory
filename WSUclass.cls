@@ -688,10 +688,11 @@ of \MakeUppercase{\@Author} find it satisfactory and recommend that it be accept
     by \@Author, \@DegreeShort\\
     \@University\\
     \@Month~\@Year\\[3\baselineskip]
-    \@DepRepTitle: \@Advisor \\[2\baselineskip]
+    Advised by \@Advisor, PhD \\[2\baselineskip]
     \end{center}
     \renewcommand{\baselinestretch}{1.66}\small\normalsize
     \@Abstract
+    \newpage
     \end{abstractenv}
     }
 \cedp
